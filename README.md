@@ -1,7 +1,7 @@
 # tailwind-course
 
-### Course
-📺 [YouTube Playlist](https://bit.ly/3BKYrzg) for this repository
+### 📺 Course
+- 🔗 [YouTube Playlist](https://bit.ly/3BKYrzg) for this repository
 
 ### 🛠️ Tools
 - 🔗 [Tailwind CSS Official Site](https://tailwindcss.com/)
