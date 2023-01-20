@@ -1,1 +1,1 @@
-# tailwind-course1
+# tailwind-course
